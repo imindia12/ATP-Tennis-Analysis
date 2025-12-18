@@ -43,6 +43,8 @@ Verified data consistency and completeness
 ## Repository Structure and Deliverables
 original dataset: https://www.kaggle.com/datasets/dissfya/atp-tennis-2000-2023daily-pull
 
+queries: https://github.com/imindia12/ATP-Tennis-Analysis/tree/main/queries
+
 Project Powerpoint Presentation: https://1drv.ms/p/c/c8fee04bdb30f278/IQA67fTwto1PTK9xmWcg3h-mAV0bW__ikkshRwqxuMaTQXE?e=sCkioF
 
 ---
