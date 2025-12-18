@@ -40,9 +40,9 @@ Verified data consistency and completeness
 
 ---​
 
-Repository Structure and Deliverables
+## Repository Structure and Deliverables
 original dataset: https://www.kaggle.com/datasets/dissfya/atp-tennis-2000-2023daily-pull
-cleaned dataset:
+
 Project Powerpoint Presentation: https://1drv.ms/p/c/c8fee04bdb30f278/IQA67fTwto1PTK9xmWcg3h-mAV0bW__ikkshRwqxuMaTQXE?e=sCkioF
 
 ---
@@ -52,6 +52,3 @@ indy.d.flores@gmail.com
 
 LinkedIn: www.linkedin.com/in/india-flores-1a67192b0
 
-
-
-Contact
