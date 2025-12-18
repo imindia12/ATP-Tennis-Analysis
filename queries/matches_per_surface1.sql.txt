@@ -1,0 +1,4 @@
+SELECT Surface, COUNT(*) AS total_matches
+FROM tennis-analysis-481321.tennis_data.tennis_cleaned
+GROUP BY Surface
+ORDER BY total_matches DESC

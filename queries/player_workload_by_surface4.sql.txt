@@ -1,0 +1,15 @@
+WITH matches AS (
+  SELECT Surface, Player_1 AS player
+  FROM `tennis-analysis-481321.tennis_data.tennis_cleaned`
+  UNION ALL
+  SELECT Surface, Player_2 AS player
+  FROM `tennis-analysis-481321.tennis_data.tennis_cleaned`
+)
+SELECT
+  Surface,
+  player,
+  COUNT(*) AS matches_played
+FROM matches
+GROUP BY Surface, player
+ORDER BY Surface, matches_played DESC;
+

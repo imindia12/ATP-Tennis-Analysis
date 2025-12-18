@@ -1,0 +1,5 @@
+SELECT Surface, COUNT(*) AS three_set_matches
+FROM tennis-analysis-481321.tennis_data.tennis_cleaned
+WHERE `Set 3 Score` IS NOT NULL
+GROUP BY Surface
+ORDER BY three_set_matches DESC;
